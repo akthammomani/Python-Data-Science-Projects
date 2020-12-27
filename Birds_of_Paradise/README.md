@@ -1,10 +1,10 @@
 
-## Birds of Paradise: a Pythonic Photography Adventure
+# Birds of Paradise: a Pythonic Photography Adventure
 
 
 ![1280px-strelitzia_larger](https://user-images.githubusercontent.com/67468718/103179897-4efbcc00-4845-11eb-80d2-4f18bde39208.jpg)
 
-#### Introduction
+## Introduction
 
 You’re on safari in the most dense, remote part of the South American rainforest as a zoologist.
 
@@ -14,7 +14,7 @@ In order to get good photographs of these birds, you have a photographer with yo
 
 Your method of communication needs to be fast and perfectly silent. These birds are conditioned to pick out the voices of potential predators easily, and will disappear if they hear you speak. Are you ready? 
 
-#### The compendium
+## The compendium
 
 Here are the magical birds we want photographs of:
 
@@ -22,7 +22,7 @@ Here are the magical birds we want photographs of:
 
 So first let's make a dictionary called rarebirds whose keys are the names of the birds above, and whose values are themselves dictionaries with the keys: Height (m), Weight (kg), Colour, Endangered, Aggressive.
 
-#### Preparation
+## Preparation
 
 We need to make some preparations. Communication with our photographer needs to be lightning fast and silent. All these birds are either very aggressive, endangered, or easily scared and will quickly disappear.
 
@@ -31,17 +31,17 @@ We need to make:
   * Codes for those locations that can be communicated silently to our photographer
   * A list of possible actions.
 
-#### Entering the jungle
+## Entering the jungle
 
 You're in thick, impenetrable jungle; the air is thick and humid, the noise of the insects constant, and the canopy overhead an intoxicating labyrinth of fecund colours.
 
 Your photographer colleague wipes sweat from her brow. She wants to ask you a question.
 
-#### Midday
+## Midday
 
 An hour has passed. The sun’s risen to its highest point and it’s become swelteringly hot in the jungle. You’re now deep into the habitat of these rare birds and you haven’t seen anything.
 
-#### The Encounter, part 1
+## The Encounter, part 1
 
 A flash of unearthly colour. A sound you've never heard before. Something moving that seems otherworldly, strange, like an alien or an angel. Something’s happening.
 
@@ -49,11 +49,11 @@ The user of your program, ultimately, will get to decide what happens.
 
 This page will get a lot of things happening: each task will be simple, but there'll be quite a few of them. Keep at it.
 
-#### The Encounter, part 2
+## The Encounter, part 2
 
 You're bristling with excitement. You need to find out the location of the sighting from the user, and call upon the code system you came up with earlier to communicate to your photographer where the sighting is.
 
-#### The Aftermath
+## The Aftermath
 
 You're almost there - you've done fantastically so far. Just a couple more tasks and you'll be out of the jungle and home to your family.
 
