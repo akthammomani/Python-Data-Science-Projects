@@ -16,21 +16,21 @@
 
 ## Main tools, techniques and concepts used in this project:
    1. pandas
-      * data ingestion and inspection (pandas Foundations, Module One)
-      * exploratory data analysis (pandas Foundations, Module Two)
-      * tidying and cleaning (Manipulating DataFrames with pandas, Module Three)
-      * transforming DataFrames (Manipulating DataFrames with pandas, Module One)
-      * subsetting DataFrames with lists (Manipulating DataFrames with pandas, Module One)
-      * filtering DataFrames (Manipulating DataFrames with pandas, Module One)
-      * grouping data, Resampling and melting data  (Manipulating DataFrames with pandas, Module Four)
-      * Visualization(Manipulating DataFrames with pandas, Module Three)
+      * data ingestion and inspection.
+      * exploratory data analysis.
+      * tidying and cleaning.
+      * transforming DataFrames.
+      * subsetting DataFrames with lists.
+      * filtering DataFrames.
+      * grouping data, Resampling and melting data.
+      * Visualization (Manipulating DataFrames with pandas, Module Three)
       * advanced indexing (Manipulating DataFrames with pandas, Module Four)
-   2. matplotlib (Intermediate Python for Data Science, Module One)
-   3. fundamental data types (Data Types for Data Science, Module One)
-   4. dictionaries (Intermediate Python for Data Science, Module Two)
-   5. handling dates and times (Data Types for Data Science, Module Four)
-   6. function definition (Python Data Science Toolbox - Part One, Module One)
-   7. default arguments, variable length, and scope (Python Data Science Toolbox - Part One, Module Two)
-   8. lambda functions and error handling (Python Data Science Toolbox - Part One, Module Four)
+   2. matplotlib.
+   3. fundamental data types.
+   4. dictionaries.
+   5. handling dates and times.
+   6. function definition.
+   7. default arguments, variable length, and scope.
+   8. lambda functions and error handling.
 
 
