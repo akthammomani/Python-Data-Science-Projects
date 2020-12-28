@@ -3,7 +3,7 @@
   1. API JSON Stock
   2. Analyzing TV Data
   3. Bank for the User.
-  4. Birds od Paradise.
+  4. Birds of Paradise.
   5. Caesar Cipher Fucntion.
   6. London boroughs Housing Prices
   7. Pandas Profiling
