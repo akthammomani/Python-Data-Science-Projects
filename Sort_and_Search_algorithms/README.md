@@ -16,7 +16,7 @@
 # Binary Search:
 
 ### When to use Binary Search function:
-  * When're looking for both smarter and faster option
+  * When we're looking for both smarter and faster option
 
 ***The main Idea behind Binary search*** is :
 
@@ -37,7 +37,7 @@
 # Bubble Sort:
 
 ### When to use Bubble Sort function:
-  * When're looking for both simple and slow option
+  * When we're looking for both simple and slow option
 
 ***The main Idea behind Bubble Sort*** is : Swap pairs if First > Second
 
@@ -45,7 +45,7 @@
 # Insertion Sort:
 
 ### When to use Insertion Sort function:
-  * When're looking for both smarter and faster option
+  * When we're looking for both smarter and faster option
 
 ***The main Idea Insertion Sort*** is :
 
