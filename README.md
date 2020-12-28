@@ -1,7 +1,7 @@
 ## ✰ Mini-Data-Science-Projects: 
 
   1. API JSON Stock
-  2. API xml GreatSchools.org
+  2. API xml GreatSchools.org: #1 trsuted source for Schools rating in the US.
   3. Analyzing TV Data
   4. Bank for the User.
   5. Birds of Paradise.
