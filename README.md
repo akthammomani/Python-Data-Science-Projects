@@ -1,4 +1,4 @@
-## ✰ Mini-Data-Science-Projects: 
+## ✰ Python-Data-Science-Projects: 
 
   1. API JSON Stock
   2. API xml GreatSchools.org: #1 trsuted source for Schools rating in the US.
