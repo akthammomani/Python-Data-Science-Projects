@@ -1,9 +1,9 @@
-# Project: London boroughs Housing Prices:
+# ✰ Project: London boroughs Housing Prices:
   ## Here’s the mystery we’re going to solve: Which boroughs of London have seen the greatest increase in housing prices, on average, over the last two decades?
 
 ![Borough-names-3](https://user-images.githubusercontent.com/67468718/103183599-4ec0f800-4868-11eb-8bbf-dce90bb71ec5.jpg)
 
-## This project was divided into below 5 stages:
+## ✰ This project was divided into below 5 stages:
    1. Sourcing and loading:
       * Importing Libraries.
       * Loading the data
@@ -15,7 +15,7 @@
    4. Modeling
    5. Evaluating and concluding
 
-## Main tools, techniques and concepts used in this project:
+## ✰ Main tools, techniques and concepts used in this project:
    1. pandas
       * data ingestion and inspection.
       * exploratory data analysis.
