@@ -9,7 +9,7 @@
   7. London boroughs Housing Prices
   8. Pandas Profiling
   9. Python Stacks & Queues.
-  10. Sort and Search Algotithms 
+  10. Sort and Search Algorithms.
   
 ## ✰ These projects will consolidate the following skills:
   1. ETL: Extraction, Transform and Load in a very controlled environment
