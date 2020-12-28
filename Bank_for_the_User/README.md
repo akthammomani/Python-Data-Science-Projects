@@ -19,6 +19,10 @@
 ## ✰ Poject steps:
   1. let's make a table in Python that looks a little like this:
   
+  <p align="center">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/67468718/103183512-cb070b80-4867-11eb-9072-36e92d63731d.JPG">
+</p>
+
   2. We now want to make a transaction function that, when called, adds a transaction to the table. We want this function to:
      * add a row to the accounts table for each transaction
      * get the current date in the format: DD/MM/YY
