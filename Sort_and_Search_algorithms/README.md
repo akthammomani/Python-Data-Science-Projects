@@ -8,8 +8,10 @@
   * When simplicity is more important than speed.
   * To benchmark other search engines (will be like a baseline!!!)
 
-***The main Idea behind Brute_Force_Search*** is basically we're comparing the query_item against all items one by one in a list till we find the query_item.
-The result will be True or False
+***The main Idea behind Brute_Force_Search*** is:
+
+   Basically we're comparing the query_item against all items one by one in a list till we find the query_item.
+   The result will be True or False
 
 # Binary Search:
 
@@ -18,19 +20,35 @@ The result will be True or False
 
 ***The main Idea behind Binary search*** is :
 
-1) Find the median of the list and compare against the query_item:
-  * query_item ==  Median 
-    True
+  *  Find the median of the list and compare against the query_item:
+     query_item ==  Median 
+     True
         Break
-    False 
+     False 
         Continue 
-  * Check if query_item > Median :
-    True
+  *  Check if query_item > Median :
+     True
         Elimninate the lower half of the given list 
-    False
+     False
         Elimninate the upper half of the given list 
+  *  repeate step no.1 on the reminaing half.
+     The result will be True or False
+     
+# Bubble Sort:
 
-  * repeate step no.1 on the reminaing half.
+### When to use Bubble Sort function:
+  * When're looking for both simple and slow option
 
-    The result will be True or False
+***The main Idea behind Bubble Sort*** is : Swap pairs if First > Second
+
+
+# Insertion Search:
+
+### When to use Insertion Sort function:
+  * When're looking for both smarter and faster option
+
+***The main Idea Insertion Sort*** is :
+
+  *  Always start from Index[1] (because there's nothing to the left to compare it with).
+  *  Always compare current element to all left elements.
 
