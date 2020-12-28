@@ -33,5 +33,24 @@
    6. function definition.
    7. default arguments, variable length, and scope.
    8. lambda functions and error handling.
+   
+   
+   ![house_1](https://user-images.githubusercontent.com/67468718/103185077-9e56f200-486f-11eb-8636-87fb717935bc.JPG)
+   
+   ![house_2](https://user-images.githubusercontent.com/67468718/103185074-9d25c500-486f-11eb-9340-cd328e76fd4c.JPG)
+   
+   ![house_3](https://user-images.githubusercontent.com/67468718/103185073-9bf49800-486f-11eb-8305-db1cbbb9b585.JPG)
+   
+   ![house_4](https://user-images.githubusercontent.com/67468718/103185071-99923e00-486f-11eb-9d7d-fc77b979361b.JPG)
+   
+   ![house_5](https://user-images.githubusercontent.com/67468718/103185069-9434f380-486f-11eb-92bf-a91c0afbe05f.JPG)
+   
+   
+   
+   
+   
+   
+   
+   
 
 
