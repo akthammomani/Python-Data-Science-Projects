@@ -1,11 +1,11 @@
-# Bank for the user!
+# ✰ Bank for the user!
 
 <p align="center">
   <img width="460" height="300" src="https://user-images.githubusercontent.com/67468718/103182205-89259780-485e-11eb-98ff-84b49a97534d.jpg">
 </p>
 
 
-## This project will consolidate the following skills:
+## ✰ This project will consolidate the following skills:
 
   * ETL: Extraction, Transform and Load in a very controlled environment
   * list manipulation
