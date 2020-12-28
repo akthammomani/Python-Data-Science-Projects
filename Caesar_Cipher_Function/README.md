@@ -1,8 +1,8 @@
-# Caesar Cipher Project
+# ✰ Caesar Cipher Project
 
 ![ADFGVX-cipher-army-German-World-War-I](https://user-images.githubusercontent.com/67468718/103180179-275a3300-4848-11eb-8221-33f1906452c5.jpg)
 
-## Intro and History
+## ✰ Intro and History
 
 A cipher is defined in the Cambridge Dictionary as 'a system of writing that prevents most people from understanding the message'. A cipher is basically a method of transforming a message to conceal its meaning.
 
