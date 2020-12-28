@@ -1,5 +1,7 @@
 # ✰ Project: London boroughs Housing Prices:
   ## Here’s the mystery we’re going to solve: Which boroughs of London have seen the greatest increase in housing prices, on average, over the last two decades?
+  
+  ### A borough is just a fancy word for district. You may be familiar with the five boroughs of New York… well, there are 32 boroughs within Greater London [(here's some info       for the curious)](https://en.wikipedia.org/wiki/London_boroughs). Some of them are more desirable areas to live in, and the data will reflect that with a greater rise in       housing prices.
 
 ![Borough-names-3](https://user-images.githubusercontent.com/67468718/103183599-4ec0f800-4868-11eb-8bbf-dce90bb71ec5.jpg)
 
