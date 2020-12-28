@@ -47,7 +47,7 @@
 ### When to use Insertion Sort function:
   * When we're looking for both smarter and faster option
 
-***The main Idea Insertion Sort*** is :
+***The main Idea behind Insertion Sort*** is :
 
   *  Always start from Index[1] (because there's nothing to the left to compare it with).
   *  Always compare current element to all left elements.
