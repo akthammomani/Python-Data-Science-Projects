@@ -5,7 +5,7 @@
 </p>
 
 
-This project will help you consolidate the following skills:
+## This project will help you consolidate the following skills:
 
   * ETL: Extraction, Transform and Load in a very controlled environment
   * list manipulation
