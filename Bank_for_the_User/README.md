@@ -1,4 +1,4 @@
-# ✰ Bank for the user: Advanced Python Peojct!
+# ✰ Bank for the user: Advanced Python Project!
 
 <p align="center">
   <img width="660" height="500" src="https://user-images.githubusercontent.com/67468718/103182205-89259780-485e-11eb-98ff-84b49a97534d.jpg">
