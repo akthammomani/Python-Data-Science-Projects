@@ -1,7 +1,7 @@
 # Sort & Search Algorithms:
   ### Sorting and searching are two fundamental types of algorithms that every programmer should know.
   
-## Brute_Force_Search:
+# Brute_Force_Search:
 
 ### When to use Brute_Force_Search function:
   * When the problem is simple
