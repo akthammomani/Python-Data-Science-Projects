@@ -42,7 +42,7 @@
 ***The main Idea behind Bubble Sort*** is : Swap pairs if First > Second
 
 
-# Insertion Search:
+# Insertion Sort:
 
 ### When to use Insertion Sort function:
   * When're looking for both smarter and faster option
