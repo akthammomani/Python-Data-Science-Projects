@@ -1,4 +1,4 @@
-## Mini-Data-Science-Projects: 
+## ✰ Mini-Data-Science-Projects: 
 
   1. API JSON Stock
   2. Analyzing TV Data
@@ -8,7 +8,7 @@
   6. London boroughs Housing Prices
   7. Pandas Profiling
   
-## These projects will consolidate the following skills:
+## ✰ These projects will consolidate the following skills:
   1. ETL: Extraction, Transform and Load in a very controlled environment
   2. list manipulation
   3. user input retrieval and management
