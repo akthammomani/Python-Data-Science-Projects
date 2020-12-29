@@ -1,7 +1,7 @@
 ## ✰ Python-Data-Science-Projects: 
 
   1. API JSON Stock
-  2. Super Boal halftime show
+  2. Super Bowl halftime show
   3. Bank for the User.
   4. Birds of Paradise.
   5. Caesar Cipher Fucntion.
