@@ -19,3 +19,5 @@
   * What was the average daily trading volume during this year?
   * (Optional) What was the median trading volume during this year. (Note: you may need to implement your own function for calculating the median.)
   
+  ![carl](https://user-images.githubusercontent.com/67468718/103331613-a358a480-4a1b-11eb-87b2-38d1ec78d163.JPG)
+  
