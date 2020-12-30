@@ -9,7 +9,7 @@
   * While there is a dedicated Python package for connecting to the Quandl API, we would prefer that using the requests package.
   
   
-  ## These are your tasks for this project:
+  ## These are our tasks for this project:
 
   * Collect data from the Franfurt Stock Exchange, for the ticker AFX_X, for the whole year 2017 (keep in mind that the date format is YYYY-MM-DD).
   * Convert the returned JSON object into a Python dictionary.
