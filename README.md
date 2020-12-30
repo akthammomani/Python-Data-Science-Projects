@@ -5,10 +5,9 @@
   3. Bank for the User.
   4. Birds of Paradise.
   5. Caesar Cipher Fucntion.
-  6. London boroughs Housing Prices
-  7. Pandas Profiling
-  8. Python Stacks & Queues.
-  9. Sort and Search Algorithms.
+  6. Pandas Profiling
+  7. Python Stacks & Queues.
+  8. Sort and Search Algorithms.
   
 ## ✰ These projects will consolidate the following skills:
   1. ETL: Extraction, Transform and Load in a very controlled environment
