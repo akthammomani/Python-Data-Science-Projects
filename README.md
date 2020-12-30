@@ -1,6 +1,6 @@
 ## ✰ Python-Data-Science-Projects: 
 
-  1. API JSON Stock
+  1. Quandl API JSON Pandas
   2. Super Bowl halftime show (Analyzing TV Data).
   3. Bank for the User.
   4. Birds of Paradise.
