@@ -1,6 +1,6 @@
 # Qunadl API:
 
-![quandi](https://user-images.githubusercontent.com/67468718/103331359-748dfe80-4a1a-11eb-9594-83abb053e810.JPG)
+![quandi](https://user-images.githubusercontent.com/67468718/103331421-b454e600-4a1a-11eb-8487-3b0405288dcc.JPG)
 
   * For this exercise, it's required to pull some data from the Qunadl API. 
   * Qaundl is currently the most widely used aggregator of financial market data.
