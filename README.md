@@ -1,13 +1,12 @@
 ## ✰ Python-Data-Science-Projects: 
 
   1. Quandl API JSON Pandas
-  2. Super Bowl halftime show (Analyzing TV Data).
-  3. Bank for the User.
-  4. Birds of Paradise.
-  5. Caesar Cipher Fucntion.
-  6. Pandas Profiling
-  7. Python Stacks & Queues.
-  8. Sort and Search Algorithms.
+  2. Bank for the User.
+  3. Birds of Paradise.
+  4. Caesar Cipher Fucntion.
+  5. Pandas Profiling
+  6. Python Stacks & Queues.
+  7. Sort and Search Algorithms.
   
 ## ✰ These projects will consolidate the following skills:
   1. ETL: Extraction, Transform and Load in a very controlled environment
