@@ -2,7 +2,7 @@
 
   1. Bank for the User.
   2. Birds of Paradise.
-  3. Caesar Cipher Fucntion.
+  3. Caesar Cipher Function.
   4. Pandas Profiling
   5. Python Stacks & Queues.
   6. Sort and Search Algorithms.
